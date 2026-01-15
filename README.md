@@ -1,7 +1,7 @@
 ## ✅ Task Manager API
 
 RESTful API for managing tasks with Node.js, Express, and MongoDB.
-Supports user authentication, task creation, updating, deletion, and advanced querying.
+Supports task creation, updating, deletion.
 
 # ✨ Features
 
@@ -72,3 +72,4 @@ DELETE tasks/:id
 
 This project is built for learning and portfolio purposes.
 Feel free to fork, use, or improve it.
+
